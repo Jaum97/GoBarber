@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "nodemon src/app/index.js"
+    "start": "nodemon src/index.js"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
